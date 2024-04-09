@@ -1,0 +1,14 @@
+.text-white{
+    color: whitesmoke;
+}
+
+.text-green{
+    color: green;
+}
+.text-red{
+    color: red;
+}
+
+.bg-app{
+    background-color: #1A2029 !important;
+}
